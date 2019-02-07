@@ -16,5 +16,10 @@ public class IEEE754
         System.out.println(y + " divise par 0 = " + z);
         y = 15;
         System.out.println(y + " divise par 0 = " + z);
+        
+        float x1 = Float.POSITIVE_INFINITY; // +infini
+        float x2 = Float.NEGATIVE_INFINITY; // -infini
+        z = x1/x2;
+        System.out.println(x1 + "/" + x2 + " = " + z);
     }
 }
