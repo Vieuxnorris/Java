@@ -1,3 +1,6 @@
+// programme qui montre les différents résultat de convertion
+// fait par **Julien Wins** et **Gordon Freeman**
+// Fait le 14/02/2019
 public class RegConv
 {
     public static void main(String args[])
